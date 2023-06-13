@@ -1,4 +1,4 @@
-let currentNumber = '';
++6+6let currentNumber = '';
 let currentOperator = '';
 let previousNumber = '';
 
