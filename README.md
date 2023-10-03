@@ -8,7 +8,7 @@
 - 💬 Ask me about **reactjs,**
 
 - 📫 How to reach me **knagarajram88@gmail.com**
-file:///C:/Users/LENOVO/Downloads/Kanagaraj-R.pdf
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
