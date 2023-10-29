@@ -8,7 +8,7 @@
 - 💬 Ask me about **reactjs,**
 
 - 📫 How to reach me **knagarajram88@gmail.com**
- - resume : https://drive.google.com/file/d/196fAgy0rz95BKiidr7UCIiu9pDGCZe0a/view
+ - resume : https://drive.google.com/file/d/1r2GX4B5oRXQsfxxiiAigyBOfCcdLYYbY/view
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
